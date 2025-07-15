@@ -42,4 +42,3 @@ Designed for immersion, the game omits a traditional HUD in favor of environment
 
 - **Unity** – Game engine
 - **C#** – Scripting
-- **OBS Studio** – Gameplay recording for trailer
